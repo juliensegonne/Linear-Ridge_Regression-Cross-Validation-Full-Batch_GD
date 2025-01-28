@@ -1,0 +1,1 @@
+# Linear-Ridge_Regression-Cross-Validation-Full-Batch_GD
